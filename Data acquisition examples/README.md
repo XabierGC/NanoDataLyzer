@@ -12,4 +12,4 @@ NanoDataLyzer is not able to communicate directy with instruments, but with OS c
 
 -Once python can be called from cmd, then it can be called from NanoDataLyzer. Next step will be install in anaconda prompt (or other Python console) the libraries that are going to be used in the Python file, for example pyvisa (check the first comments in the '.py' files of the folder). Finally install all the drivers of the instrument if necessary.
 
--Finally you can call Python files directly from NanoDataLyzer using Matlab code syntax. Using NanoDataLyzer's Tools>Create Dataset Batch utility, you can edit, test and debug code and save it as a template in files with '.ndl' extension (NanoDataLyzer dataset files)
+-Then you can call Python files directly from NanoDataLyzer using Matlab code syntax. Using NanoDataLyzer's Tools>Create Dataset Batch utility, you can edit, test and debug code and save it as a template in files with '.ndl' extension (NanoDataLyzer dataset files)
