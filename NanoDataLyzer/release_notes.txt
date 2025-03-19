@@ -1,0 +1,13 @@
+Release notes NanoDataLyzer
+------------------------------
+
+Version 1.1
+
+What's new?
+-Added "About" menu tab.
+-Added multiple file selection importing data.
+-Added math function button to modify data.
+
+Bug fixes
+-Fix the wrong calculation of mean power if
+ signal frequency edit field is being shown.
